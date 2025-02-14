@@ -57,7 +57,7 @@ Start VSCode:
 |---0---0---0---0---|
 Resources: 
 
-    This project could not be completed without these refered resources 
+    This project could not be possible without these refered resources 
 
     YT Video || Joey'sTech || How to Install NLTK in Python 3 in less than 5 mins - a step by step process #python || https://www.youtube.com/watch?v=85Xr0UGR8qQ
 
